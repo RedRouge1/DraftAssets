@@ -1,0 +1,129 @@
+# Gen 9 / NatDex / SV-DLC2
+This set of directories contains Pokémon SV Sprites for NatDex.
+## Credits
+The original images from this directory were sourced from [Project Pokémon](https://projectpokemon.org/home/docs/spriteindex_148/switch-sv-style-sprites-for-home-r153/).
+
+## Inconsistences
+All sprites are the Pokémon SV sprites listed on the page with the following exceptions due to non existent sprites when compared to Showdowns name scheme:
+I potentially intend to add alternatives either from home or some other sprite set at some point for some of these.
+
+*original sprite -> replacement sprite*
+- Pikachu
+	- Pikachu-Starter -> Pikachu
+	- Pikachu-Cosplay -> Pikachu
+	- Pikachu-Belle -> Pikachu
+	- Pikachu-Libre -> Pikachu
+	- Pikachu-PhD -> Pikachu
+	- Pikachu-Pop-Star -> Pikachu
+	- Pikachu-Rock-Star -> Pikachu
+- Eevee
+	- Eevee-Starter -> Eevee
+- Pichu
+	- Pichu-Spiky-eared -> Pichu
+- Greninja
+	- Greninja-Bond -> Greninja
+- Floette
+	- See below
+- Silvally
+	- Silvally-Bug -> Silvally
+	- Silvally-Dark -> Silvally
+	- Silvally-Dragon -> Silvally
+	- Silvally-Electric -> Silvally
+	- Silvally-Fairy -> Silvally
+	- Silvally-Fighting -> Silvally
+	- Silvally-Fire -> Silvally
+	- Silvally-Flying -> Silvally
+	- Silvally-Ghost -> Silvally
+	- Silvally-Grass -> Silvally
+	- Silvally-Ground -> Silvally
+	- Silvally-Ice -> Silvally
+	- Silvally-Poison -> Silvally
+	- Silvally-Psychic -> Silvally
+	- Silvally-Rock -> Silvally
+	- Silvally-Steel -> Silvally
+	- Silvally-Water -> Silvally
+- Minior
+	- Minior-Blue -> Minior-Meteor
+	- Minior-Green -> Minior-Meteor
+	- Minior-Indigo -> Minior-Meteor
+	- Minior-Orange -> Minior-Meteor
+	- Minior -> Minior-Meteor
+	- Minior-Violet -> Minior-Meteor
+	- Minior-Yellow -> Minior-Meteor
+- Mimikyu
+	- Mimikyu-Busted -> Mimikyu
+- Toxtricity
+	- Toxtricity-Low-Key-Gmax -> Toxtricity-Gmax
+- Sinistea
+	- Sinistea-Antique -> Sinistea
+- Polteageist
+	- Polteageist-Antique -> Polteageist
+- Urshifu
+	- Urshifu-Rapid-Strike -> Urshifu
+- Ursaluna
+	- Ursaluna-Bloodmoon -> Ursaluna
+- Dudunsparce
+	- Dudunsparce-Three-Segment -> Dudunsparce
+- Poltchageist
+	- Poltchageist-Artisan -> Poltchageist
+- Sinistcha
+	- Sinistcha-Masterpiece -> Sinistcha
+- Ogerpon
+	- Ogerpon-Teal-Tera -> Ogerpon
+	- Ogerpon-Wellspring-Tera -> Ogerpon-Wellspring
+	- Ogerpon-Hearthflame-Tera -> Ogerpon-Hearthflame
+	- Ogerpon-Cornerstone-Tera -> Ogerpon-Cornerstone
+- Terapagos
+	- Terapagos-Terastal -> Terapagos
+	- Terapagos-Stellar -> Terapagos
+
+- Totem Pokémon
+	- Raticate-Alola-Totem -> Raticate-Alola
+	- Marowak-Alola-Totem -> Marowak-Alola
+	- Gumshoos-Totem -> Gumshoos
+	- Vikavolt-Totem -> Vikavolt
+	- Ribombee-Totem -> Ribombee
+	- Araquanid-Totem -> Araquanid
+	- Lurantis-Totem -> Lurantis
+	- Salazzle-Totem -> Salazzle
+	- Togedemaru-Totem -> Togedemaru
+	- Mimikyu-Totem -> Mimikyu
+	- Mimikyu-Busted-Totem -> Mimikyu
+	- Kommo-o-Totem -> Kommo-o
+
+- Gmax Pokémon
+	- Venusaur-Gmax -> Venusaur
+	- Charizard-Gmax -> Charizard
+	- Blastoise-Gmax -> Blastoise
+	- Butterfree-Gmax -> Butterfree
+	- Meowth-Gmax -> Meowth
+	- Machamp-Gmax -> Machamp
+	- Gengar-Gmax -> Gengar
+	- Kingler-Gmax -> Kingler
+	- Lapras-Gmax -> Lapras
+	- Eevee-Gmax -> Eevee
+	- Snorlax-Gmax -> Snorlax
+	- Garbodor-Gmax -> Garbodor
+	- Melmetal-Gmax -> Melmetal
+	- Rillaboom-Gmax -> Rillaboom
+	- Cinderace-Gmax -> Cinderace
+	- Inteleon-Gmax -> Inteleon
+	- Corviknight-Gmax -> Corviknight
+	- Orbeetle-Gmax -> Orbeetle
+	- Drednaw-Gmax -> Drednaw
+	- Coalossal-Gmax -> Coalossal
+	- Flapple-Gmax -> Flapple
+	- Appletun-Gmax -> Appletun
+	- Sandaconda-Gmax -> Sandaconda
+	- Toxtricity-Gmax -> Toxtricity
+	- Toxtricity-Low-Key-Gmax -> Toxtricity-Low-Key
+	- Centiskorch-Gmax -> Centiskorch
+	- Sinistea-Antique -> Sinistea
+	- Polteageist-Antique -> Polteageist
+	- Hatterene-Gmax -> Hatterene
+	- Grimmsnarl-Gmax -> Grimmsnarl
+	- Alcremie-Gmax -> Alcremie
+	- Copperajah-Gmax -> Copperajah
+	- Duraludon-Gmax -> Duraludon
+	- Urshifu-Gmax -> Urshifu
+	- Urshifu-Rapid-Strike-Gmax -> Urshifu
