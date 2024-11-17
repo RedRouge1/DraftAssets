@@ -5,7 +5,7 @@ The original images from this directory were sourced from [Project Pokémon](htt
 
 ## Inconsistences
 All sprites are the Pokémon SV sprites listed on the page with the following exceptions due to non existent sprites when compared to Showdowns name scheme:
-I potentially intend to add alternatives either from home or some other sprite set at some point for some of these.
+Potentially intend to add alternatives either from home or some other sprite set at some point for some of these.
 
 *original sprite -> replacement sprite*
 - Pikachu

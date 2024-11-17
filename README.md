@@ -4,15 +4,15 @@ This is a repository of Pokémon Sprites with the intention of using them for dr
 Sets of sprites have referencing for the original sprites, with resized versions and greyscale versions being run through python using the module Pillow.
 
 Sprites are stored under the following structure:
-`branch -> gen -> game/format -> update -> colour/grey -> size`
+`branch -> Pokémon -> gen -> game/format -> update -> colour/grey -> size`
 
 Example 1:
-`main/gen9/sv/dlc2/colour/x64/bulbasaur.png` REMOVED
+`main/Pokemon/gen9/sv/dlc2/colour/x64/Bulbasaur.png` REMOVED
 
 Example 2:
-`main/gen9/NatDex/Home/grey/x128/bulbasaur.png`
+`main/Pokemon/gen9/NatDex/Home/grey/x128/Bulbasaur.png`
 
-Full urls are prefixed with `aaaaa` so sprites can be referenced at `https::`
+Full urls are prefixed with `https://raw.githubusercontent.com/RedRouge1/DraftAssets/refs/heads/` so sprites can be referenced at `https://raw.githubusercontent.com/RedRouge1/DraftAssets/refs/heads/main/Pokemon/gen9/NatDex/Home/colour/x128/Bulbasaur.png`
 
 Anything on the main branch is considered volatile. If you want to be sure the sprites stay the same long term then consider changing this to one of the versioned branches that when created should be constant.
 ## Name Scheme
@@ -27,21 +27,26 @@ Gen 1
 - Farfetch’d-Galar -> Farfetchd-Galar
 - Mr. Mime -> Mr.Mime
 - Mr. Mime-Galar -> Mr.Mime-Galar
+
 Gen 4
 - Mime Jr. -> MimeJr.
+
 Gen 6
 - Vivillon-Icy Snow -> Vivillon-IcySnow
 - Vivillon-High Plains -> Vivillon-HighPlains
 - Furfrou-La Reine -> Furfrou-LaReine
+
 Gen 7
 - Type: Null -> TypeNull
 - Tapu Koko -> TapuKoko
 - Tapu Lele -> TapuLele
 - Tapu Bulu -> TapuBulu
 - Tapu Fini -> TapuFini
+
 Gen 8
 - Sirfetch’d -> Sirfetchd
 - Mr. Rime -> Mr.Rime
+
 Gen 9
 - Great Tusk -> GreatTusk
 - Scream Tail -> ScreamTail
