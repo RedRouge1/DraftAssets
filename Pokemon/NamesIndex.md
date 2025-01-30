@@ -994,7 +994,7 @@
 | Xerneas-Neutral           | Xerneas-Neutral           |
 | Yveltal                   | Yveltal                   |
 | Zygarde                   | Zygarde                   |
-| Zygarde-10%               | Zygarde-10%               |
+| Zygarde-10%               | Zygarde-10                |
 | Zygarde-Complete          | Zygarde-Complete          |
 | Diancie                   | Diancie                   |
 | Diancie-Mega              | Diancie-Mega              |
